@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: 'TODOLIST-CBacolanta',  // <-- Replace with your repository name
+  base: '/TODOLIST-CBacolanta',
 });
